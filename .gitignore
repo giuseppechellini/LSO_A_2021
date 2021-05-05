@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Log Files
+*.log
+
+# Versioni originali dei files
+*.orig
